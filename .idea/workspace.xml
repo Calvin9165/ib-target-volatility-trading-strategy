@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c6cf592-5708-4a2c-8a81-8bf70f3aecda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eI4VY1zV1l2SAnavmOlWthGvun" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.gathering_data (1)">
+    <configuration name="calculating_allocation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ib_live_trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/calculating_allocation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email_handler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ib_live_trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/email_handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gathering_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ib_live_trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gathering_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ib_live_trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ib_live_trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gathering_data (1)" />
+        <item itemvalue="Python.sandbox" />
+        <item itemvalue="Python.sandbox (1)" />
+        <item itemvalue="Python.email_handler" />
+        <item itemvalue="Python.calculating_allocation (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c6cf592-5708-4a2c-8a81-8bf70f3aecda" name="Default Changelist" comment="" />
+      <created>1593995796799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593995796799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1059" height="240" key="GridCell.Tab.0.bottom" timestamp="1596979961702">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1596979961702" />
+    <state width="1899" height="114" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@0.0.1920.1040" timestamp="1596381935982" />
+    <state width="1059" height="240" key="GridCell.Tab.0.center" timestamp="1596979961702">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="240" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1596979961702" />
+    <state width="1899" height="114" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@0.0.1920.1040" timestamp="1596381935982" />
+    <state width="1059" height="240" key="GridCell.Tab.0.left" timestamp="1596979961702">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="240" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1596979961702" />
+    <state width="1899" height="114" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@0.0.1920.1040" timestamp="1596381935982" />
+    <state width="1059" height="240" key="GridCell.Tab.0.right" timestamp="1596979961702">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="240" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1596979961702" />
+    <state width="1899" height="114" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@0.0.1920.1040" timestamp="1596381935982" />
+    <state width="1059" height="516" key="GridCell.Tab.1.bottom" timestamp="1594231922782">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1594231922782" />
+    <state width="1059" height="516" key="GridCell.Tab.1.center" timestamp="1594231922782">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1594231922782" />
+    <state width="1059" height="516" key="GridCell.Tab.1.left" timestamp="1594231922782">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1594231922782" />
+    <state width="1059" height="516" key="GridCell.Tab.1.right" timestamp="1594231922782">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1594231922782" />
+    <state width="548" height="948" key="XDebugger.FullValuePopup" timestamp="1594218517070">
+      <screen x="-1080" y="-449" width="1080" height="1880" />
+    </state>
+    <state width="548" height="948" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1594218517070" />
+    <state x="420" y="423" key="com.intellij.ide.util.TipDialog" timestamp="1596467924770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-844" y="315" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1595541705633" />
+    <state x="420" y="423" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@0.0.1920.1040" timestamp="1596467924770" />
+    <state x="482" y="0" width="811" height="1127" key="dock-window-1" timestamp="1595541966857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="482" y="0" width="811" height="1127" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1595541966857" />
+    <state x="311" y="117" width="1160" height="826" key="dock-window-2" timestamp="1595848191771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="311" y="117" width="1160" height="826" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040/-1080.-449.1080.1880@-1080.-449.1080.1880" timestamp="1595848191771" />
+  </component>
+</project>
